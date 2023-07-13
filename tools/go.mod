@@ -6,7 +6,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/golangci/golangci-lint v1.52.2
 	golang.org/x/tools v0.8.1-0.20230421161920-b9619ee54b47
-	golang.org/x/vuln v0.2.0
+	golang.org/x/vuln v1.0.0
 )
 
 replace (
